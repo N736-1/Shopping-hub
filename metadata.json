@@ -1,0 +1,6 @@
+{
+  "name": "Dropship Hub",
+  "description": "A high-converting multi-marketplace dropshipping and affiliate e-commerce store with product discovery, source-aware checkout, and affiliate partner integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
